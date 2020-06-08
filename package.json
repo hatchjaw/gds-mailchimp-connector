@@ -1,0 +1,26 @@
+{
+  "name": "gds-mailchimp-connector",
+  "version": "0.0.1",
+  "description": "A Mailchimp connector for Google DataStudio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatchjaw/gds-mailchimp-connector.git"
+  },
+  "keywords": [
+    "datastudio",
+    "mailchimp"
+  ],
+  "author": "tommy.rushon@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hatchjaw/gds-mailchimp-connector/issues"
+  },
+  "homepage": "https://github.com/hatchjaw/gds-mailchimp-connector#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0"
+  }
+}
